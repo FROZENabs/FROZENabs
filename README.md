@@ -1,56 +1,53 @@
-<h1 align="center">Hi 👋, I'm Zikirulloh</h1>
-<h3 align="center">A passionate Front-End Developer from Uzbekistan</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+there!+I'm+Akmaljon+Kadirov;Welcome+to+my+GitHub+Profile!">
+</h1>
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://t.me/your_telegram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-  </a>
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
+<h3 align="center">My GitHub Stats and Most Used Languages</h3>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KADIROOV&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADIROOV&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
 </p>
 
----
-
-### 🛠 Languages and Tools:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KADIROOV&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
----
+<h3 align="center">Informations about me</h3>
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+<ul>
+  <li>I'm a Front-End Developer</li>
+  <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">KADIROOV's GitHub</a></li>
+  <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
+</ul>
+
+### Learned Languages and Tools:
+<p>
+   <a href="https://react-lang.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" title="Tailwindcss" width="40" height="40"/>
+  </a>&nbsp;
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="languages"/>
+
+### Connect with me:
+<p>
+  <a href="https://t.me/Oxunjoonv7" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
----
-
-### 📚 Currently learning:
-- ReactJS
-- TypeScript
-- Node.js
-
