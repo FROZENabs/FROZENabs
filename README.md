@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+there!+I'm+Akmaljon+Kadirov;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+there!+I'm+Zikirulloh+Oxunjonov;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h3 align="center">My GitHub Stats and Most Used Languages</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KADIROOV&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADIROOV&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxunjonov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxunjonov&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KADIROOV&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oxunjonov&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
 <h3 align="center">Informations about me</h3>
 
 <ul>
   <li>I'm a Front-End Developer</li>
-  <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">KADIROOV's GitHub</a></li>
+  <li>All my projects are available on <a href="https://github.com/Oxunjonov?tab=repositories">Zikirulloh's GitHub</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
